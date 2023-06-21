@@ -4,6 +4,7 @@ This repository contains a collection of C++ projects developed by an electronic
 Feel free to explore the individual project directories for more details and instructions on running the projects. Contributions, suggestions, and feedback are always appreciated.
 
 Projects Included:
+hospital management
 clock application
 Tic-Tac-Toe Game
 
